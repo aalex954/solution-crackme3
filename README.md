@@ -65,9 +65,6 @@ sub_401400
 - This code starts by doing validation on a 16-byte input string (`arg1`).
 - The code then parses the input into a magic square and tests its values.
 
-![checkMagicSquare_LinearPseudoC](https://github.com/user-attachments/assets/e9c34e5e-6959-4b50-aafc-2c610d7bb6d5)
-
-
 ---
 
 **Initial Check**
